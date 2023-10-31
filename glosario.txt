@@ -1,0 +1,10 @@
+HTML
+Significa Hipertext Markup Lenguaje
+Lo que hacemos con HTML le decimos a cada cosa que va en la pagina el lugar que tiene que ocupar
+Es para estructurar la pagina
+
+CSS 
+Con CSS le damos el estilo a esas cosas
+
+Index
+Es la pagina principal que vemos al entrar a una Web. De esta pagina partimos hacia las otras paginas.
