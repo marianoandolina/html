@@ -8,3 +8,29 @@ Con CSS le damos el estilo a esas cosas
 
 Index
 Es la pagina principal que vemos al entrar a una Web. De esta pagina partimos hacia las otras paginas.
+
+# ETIQUETAS
+
+La estructura para crear una etiqueta o cajita es la siguiente
+<etiqueta> # abrimos la etiqueta
+</etiqueta> # cerramos la etiqueta
+
+Las etiquetas tienen atributos y esos atributos un valor
+
+<etiqueta atributo="valor">
+
+# Vamos con los ejemplos
+
+<boton color="rojo">
+</boton>
+
+<boton color="rojo" tamaño="grande" borde="negro"> # otros atributos posibles son tamaño, borde etc
+</boton>
+
+Las etiquetas que se abren y se cierran tienen algo adentro
+
+# ALGUNAS DE LAS ETIQUETAS QUE HAY
+<br> Es un espacio en linea, no se cierra
+<h1> Es un encabezado de texto, se abre y se cierra </h1>
+
+
