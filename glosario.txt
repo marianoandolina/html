@@ -33,4 +33,8 @@ Las etiquetas que se abren y se cierran tienen algo adentro
 <br> Es un espacio en linea, no se cierra
 <h1> Es un encabezado de texto, se abre y se cierra </h1>
 
+METADATOS
+
+Es informacion que describe otra informacion.
+
 
